@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: DHANUSHA K       </h3>
-<h3>Register Number:212223040034           </h3>
+<h3>Name            : DHANUSHA K   </h3>
+<h3>Register Number : 212223040034         </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -24,7 +24,7 @@ Alpha–Beta (𝛼−𝛽) algorithm is actually an improved minimax using a heu
 When added to a simple minimax algorithm, it gives the same output but cuts off certain branches that can’t possibly affect the final decision — dramatically improving the performance
 <hr>
 
-## PROGRAM :
+## Program:
 ```
 import time
 
@@ -209,7 +209,6 @@ if __name__ == "__main__":
     main()
     
 ```
-
 <h2>Sample Input and Output:</h2>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8d5e329a-9aff-41a6-bcf0-46efa10e1b92)
@@ -218,5 +217,9 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
-## RESULT :
+## Output:
+<img width="547" height="942" alt="image" src="https://github.com/user-attachments/assets/7b47d170-80b5-4ccd-be3d-05f43e9dc846" />
+<img width="606" height="551" alt="image" src="https://github.com/user-attachments/assets/b0c7ed0d-8279-431d-8080-341cfad6d6c4" />
+
+## Result:
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
